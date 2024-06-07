@@ -1,4 +1,4 @@
-module github.com/InazumaV/V2bX
+module github.com/xinyangme001/V2bX
 
 go 1.21
 
