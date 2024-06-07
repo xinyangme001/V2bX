@@ -9,8 +9,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/go-resty/resty/v2"
+	"github.com/xinyangme001/V2bX/conf"
 )
 
 // Panel is the interface for different panel's api.

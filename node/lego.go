@@ -19,10 +19,10 @@ import (
 	"github.com/go-acme/lego/v4/registration"
 	"github.com/goccy/go-json"
 
-	"github.com/InazumaV/V2bX/common/file"
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/go-acme/lego/v4/lego"
+	"github.com/xinyangme001/V2bX/common/file"
+	"github.com/xinyangme001/V2bX/conf"
 )
 
 type Lego struct {

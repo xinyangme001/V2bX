@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/InazumaV/V2bX/conf"
-	"github.com/InazumaV/V2bX/limiter"
 	"github.com/go-redis/redis/v8"
+	"github.com/xinyangme001/V2bX/conf"
+	"github.com/xinyangme001/V2bX/limiter"
 )
 
 type Redis struct {

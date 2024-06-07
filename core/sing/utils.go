@@ -2,8 +2,8 @@ package sing
 
 import (
 	"fmt"
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/inazumav/sing-box/option"
+	"github.com/xinyangme001/V2bX/conf"
 	"strconv"
 )
 

@@ -4,11 +4,11 @@ import (
 	"encoding/base64"
 	"errors"
 
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/common/counter"
-	"github.com/InazumaV/V2bX/core"
 	"github.com/inazumav/sing-box/inbound"
 	"github.com/inazumav/sing-box/option"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/common/counter"
+	"github.com/xinyangme001/V2bX/core"
 )
 
 func (b *Box) AddUsers(p *core.AddUsersParams) (added int, err error) {

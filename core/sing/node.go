@@ -14,10 +14,10 @@ import (
 	"github.com/inazumav/sing-box/inbound"
 	F "github.com/sagernet/sing/common/format"
 
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/goccy/go-json"
 	"github.com/inazumav/sing-box/option"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/conf"
 )
 
 type WsNetworkConfig struct {

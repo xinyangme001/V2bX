@@ -3,8 +3,6 @@ package sing
 import (
 	"context"
 	"fmt"
-	"github.com/InazumaV/V2bX/conf"
-	vCore "github.com/InazumaV/V2bX/core"
 	"github.com/goccy/go-json"
 	"github.com/inazumav/sing-box/adapter"
 	"github.com/inazumav/sing-box/inbound"
@@ -17,6 +15,8 @@ import (
 	F "github.com/sagernet/sing/common/format"
 	"github.com/sagernet/sing/service"
 	"github.com/sagernet/sing/service/pause"
+	"github.com/xinyangme001/V2bX/conf"
+	vCore "github.com/xinyangme001/V2bX/core"
 	"io"
 	"os"
 	"runtime/debug"

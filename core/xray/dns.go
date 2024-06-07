@@ -2,9 +2,9 @@ package xray
 
 import (
 	"bytes"
-	"github.com/InazumaV/V2bX/api/panel"
 	"github.com/goccy/go-json"
 	log "github.com/sirupsen/logrus"
+	"github.com/xinyangme001/V2bX/api/panel"
 	coreConf "github.com/xtls/xray-core/infra/conf"
 	"os"
 )

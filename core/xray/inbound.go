@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/goccy/go-json"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/conf"
 	"github.com/xtls/xray-core/common/net"
 	"github.com/xtls/xray-core/core"
 	coreConf "github.com/xtls/xray-core/infra/conf"

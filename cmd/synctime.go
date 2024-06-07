@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/InazumaV/V2bX/common/systime"
 	"github.com/beevik/ntp"
 	"github.com/spf13/cobra"
+	"github.com/xinyangme001/V2bX/common/systime"
 )
 
 var ntpServer string

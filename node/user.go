@@ -3,8 +3,8 @@ package node
 import (
 	"strconv"
 
-	"github.com/InazumaV/V2bX/api/panel"
 	log "github.com/sirupsen/logrus"
+	"github.com/xinyangme001/V2bX/api/panel"
 )
 
 func (c *Controller) reportUserTrafficTask() (err error) {

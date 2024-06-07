@@ -2,7 +2,7 @@ package conf
 
 import (
 	"fmt"
-	"github.com/InazumaV/V2bX/common/json5"
+	"github.com/xinyangme001/V2bX/common/json5"
 	"os"
 
 	"github.com/goccy/go-json"

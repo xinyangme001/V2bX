@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/InazumaV/V2bX/common/crypt"
 	"github.com/goccy/go-json"
+	"github.com/xinyangme001/V2bX/common/crypt"
 )
 
 // Security type

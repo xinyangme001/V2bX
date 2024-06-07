@@ -6,9 +6,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/conf"
 	"github.com/hashicorp/go-multierror"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/conf"
 )
 
 type Selector struct {

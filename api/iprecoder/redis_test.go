@@ -4,8 +4,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/InazumaV/V2bX/conf"
-	"github.com/InazumaV/V2bX/limiter"
+	"github.com/xinyangme001/V2bX/conf"
+	"github.com/xinyangme001/V2bX/limiter"
 )
 
 func TestRedis_SyncOnlineIp(t *testing.T) {

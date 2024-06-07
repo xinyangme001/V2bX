@@ -3,8 +3,8 @@ package xray
 import (
 	"fmt"
 
-	conf2 "github.com/InazumaV/V2bX/conf"
 	"github.com/goccy/go-json"
+	conf2 "github.com/xinyangme001/V2bX/conf"
 	"github.com/xtls/xray-core/common/net"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/infra/conf"

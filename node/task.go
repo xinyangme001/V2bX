@@ -3,11 +3,11 @@ package node
 import (
 	"time"
 
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/common/task"
-	vCore "github.com/InazumaV/V2bX/core"
-	"github.com/InazumaV/V2bX/limiter"
 	log "github.com/sirupsen/logrus"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/common/task"
+	vCore "github.com/xinyangme001/V2bX/core"
+	"github.com/xinyangme001/V2bX/limiter"
 )
 
 func (c *Controller) startTasks(node *panel.NodeInfo) {

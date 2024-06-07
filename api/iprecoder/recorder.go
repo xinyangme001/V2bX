@@ -4,10 +4,10 @@ import (
 	"errors"
 	"time"
 
-	"github.com/InazumaV/V2bX/conf"
-	"github.com/InazumaV/V2bX/limiter"
 	"github.com/go-resty/resty/v2"
 	"github.com/goccy/go-json"
+	"github.com/xinyangme001/V2bX/conf"
+	"github.com/xinyangme001/V2bX/limiter"
 )
 
 type Recorder struct {

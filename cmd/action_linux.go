@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/InazumaV/V2bX/common/exec"
 	"github.com/spf13/cobra"
+	"github.com/xinyangme001/V2bX/common/exec"
 )
 
 var (

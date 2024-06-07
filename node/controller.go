@@ -4,13 +4,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/InazumaV/V2bX/api/iprecoder"
-	"github.com/InazumaV/V2bX/api/panel"
-	"github.com/InazumaV/V2bX/common/task"
-	"github.com/InazumaV/V2bX/conf"
-	vCore "github.com/InazumaV/V2bX/core"
-	"github.com/InazumaV/V2bX/limiter"
 	log "github.com/sirupsen/logrus"
+	"github.com/xinyangme001/V2bX/api/iprecoder"
+	"github.com/xinyangme001/V2bX/api/panel"
+	"github.com/xinyangme001/V2bX/common/task"
+	"github.com/xinyangme001/V2bX/conf"
+	vCore "github.com/xinyangme001/V2bX/core"
+	"github.com/xinyangme001/V2bX/limiter"
 )
 
 type Controller struct {

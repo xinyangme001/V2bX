@@ -1,12 +1,12 @@
 package cmd
 
 import (
-	"github.com/InazumaV/V2bX/conf"
-	vCore "github.com/InazumaV/V2bX/core"
-	"github.com/InazumaV/V2bX/limiter"
-	"github.com/InazumaV/V2bX/node"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
+	"github.com/xinyangme001/V2bX/conf"
+	vCore "github.com/xinyangme001/V2bX/core"
+	"github.com/xinyangme001/V2bX/limiter"
+	"github.com/xinyangme001/V2bX/node"
 	"gopkg.in/natefinch/lumberjack.v2"
 	"os"
 	"os/signal"

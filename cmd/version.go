@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	vCore "github.com/InazumaV/V2bX/core"
 	"github.com/spf13/cobra"
+	vCore "github.com/xinyangme001/V2bX/core"
 )
 
 var (
